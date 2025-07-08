@@ -1,4 +1,4 @@
-target_time125 = 285; // цель АТТ для 125%
-target_time100 = 317; // цель АТТ для 100%
-target_time75 = 349; // цель АТТ для 75%
-target_time50 = 380; // цель АТТ для 50%
+target_time125 = 285
+target_time100 = 317
+target_time75 = 349
+target_time50 = 380
