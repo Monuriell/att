@@ -1,4 +1,4 @@
-target_time125 = 284
-target_time100 = 315
-target_time75 = 347
-target_time50 = 378
+target_time125 = 293
+target_time100 = 326
+target_time75 = 359
+target_time50 = 391
